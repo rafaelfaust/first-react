@@ -1,8 +1,16 @@
+<h3 align="center">
+    This project was developed with DevClub.
+  </h3><br>
+
+  <img alt="Layout" src="./src/images/tela.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Script
+
 
 In the project directory, you can run:
 
